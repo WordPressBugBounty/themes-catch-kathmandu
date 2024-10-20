@@ -1,0 +1,1764 @@
+# Copyright (C) 2012-2022 the Catch Themes Team
+# This file is distributed under the  GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Kathmandu\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2024-06-29 22:39+0545\n"
+"PO-Revision-Date: 2024-06-29 22:39+0545\n"
+"Last-Translator: Sakin Shrestha <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: de_CH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hata! Sayfa bulunamadı."
+
+#: ../404.php:28
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Bu konumda hiçbir şey bulunamadı. Aşağıdaki linklerden birini denemek ya da "
+"arama yapmak ister misiniz?"
+
+#: ../404.php:35
+msgid "Most Used Categories"
+msgstr "En Fazla Kullanılan Kategoriler"
+
+#: ../404.php:43
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Aylık arşivleri dene. %1$s"
+
+#: ../comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../comments.php:56 ../comments.php:76
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: ../comments.php:57 ../comments.php:77
+msgid "&larr; Older Comments"
+msgstr "&larr; Daha eski yorumlar"
+
+#: ../comments.php:58 ../comments.php:78
+msgid "Newer Comments &rarr;"
+msgstr "Daha yeni yorumlar &larr;"
+
+#: ../comments.php:88
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: ../content-aside.php:20 ../content-audio.php:20 ../content-chat.php:21
+#: ../content-gallery.php:24 ../content-gallery.php:41
+#: ../content-gallery.php:42 ../content-image.php:22 ../content-page.php:18
+#: ../content-single.php:18 ../content-video.php:23 ../content.php:31
+#: ../inc/catchkathmandu-functions.php:467
+#, php-format
+msgid "Permalink to %s"
+msgstr "%s için kalıcı link"
+
+#: ../content-aside.php:26 ../content-audio.php:32 ../content-chat.php:33
+#: ../content-gallery.php:48 ../content-image.php:34 ../content-link.php:29
+#: ../content-page.php:24 ../content-quote.php:25 ../content-single.php:29
+#: ../content-status.php:33 ../content-video.php:35 ../content.php:51
+#: ../image.php:93
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: ../content-aside.php:39 ../content-audio.php:45 ../content-chat.php:46
+#: ../content-gallery.php:62 ../content-image.php:47 ../content-link.php:41
+#: ../content-quote.php:37 ../content-single.php:46 ../content-status.php:45
+#: ../content-video.php:48 ../content.php:65
+msgid "Leave a reply"
+msgstr "Yanıt verin"
+
+#: ../content-aside.php:39 ../content-audio.php:45 ../content-chat.php:46
+#: ../content-gallery.php:62 ../content-image.php:47 ../content-link.php:41
+#: ../content-quote.php:37 ../content-single.php:46 ../content-status.php:45
+#: ../content-video.php:48 ../content.php:65
+msgid "1 Reply"
+msgstr "1 yanıt"
+
+#: ../content-aside.php:39 ../content-audio.php:45 ../content-chat.php:46
+#: ../content-gallery.php:62 ../content-image.php:47 ../content-link.php:41
+#: ../content-quote.php:37 ../content-status.php:45 ../content-video.php:48
+msgid "% Replies;"
+msgstr "% yanıt;"
+
+#: ../content-aside.php:41 ../content-audio.php:47 ../content-chat.php:48
+#: ../content-gallery.php:64 ../content-image.php:49 ../content-link.php:43
+#: ../content-page.php:33 ../content-quote.php:39 ../content-single.php:49
+#: ../content-status.php:47 ../content-video.php:50 ../content.php:68
+#: ../image.php:39 ../image.php:112 ../inc/template-tags.php:195
+msgid "Edit"
+msgstr "Düzenle"
+
+#: ../content-audio.php:21
+msgid "All Audio Posts"
+msgstr "Bütün İşitsel İletiler"
+
+#: ../content-chat.php:22
+msgid "All Chat Posts"
+msgstr "Bütün Sohbet İletileri"
+
+#: ../content-gallery.php:25
+msgid "All Gallery Posts"
+msgstr "Bütün Galeri İletileri"
+
+#: ../content-gallery.php:42
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Bu galeride <a %1$s>%2$s resim </a> var."
+msgstr[1] "Diese Galerie enthält <a %1$s>%2$s  Bilder </a>."
+
+#: ../content-image.php:23
+msgid "All Image Posts"
+msgstr "Bütün Resim İletileri"
+
+#: ../content-link.php:23
+msgid "All Link Posts"
+msgstr "Bütün Link İletileri"
+
+#: ../content-single.php:46 ../content.php:65
+msgid "% Replies"
+msgstr "% yanıt"
+
+#: ../content-single.php:56 ../content.php:75
+#, php-format
+msgid "About %s"
+msgstr "%s Hakkında Bilgi"
+
+#: ../content-single.php:60 ../content.php:79
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\"> iletilerinin tümünü gör &rarr;</span>"
+
+#: ../content-status.php:27
+msgid "All Status Posts"
+msgstr "Bütün Statü İletileri"
+
+#: ../content-video.php:24
+msgid "All Video Posts"
+msgstr "Bütün Video İletileri"
+
+#: ../content.php:23
+msgid "Featured post"
+msgstr "Öne çıkan ileti"
+
+#: ../functions.php:109 ../inc/catchkathmandu-menus.php:15
+msgid "Primary Menu"
+msgstr "Ana Mönü"
+
+#: ../functions.php:110 ../inc/catchkathmandu-menus.php:59
+msgid "Secondary Menu"
+msgstr "İkincil Mönü"
+
+#: ../image.php:29
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" "
+"title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" "
+"title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"<span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" "
+"pubdate>%2$s</time></span> tarihinde <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> / <a href=\"%6$s\" title=\"Return to "
+"%7$s\" rel=\"gallery\">%7$s</a>  yayınlandı"
+
+#: ../image.php:43
+msgid "&larr; Previous"
+msgstr "&larr; Önceki"
+
+#: ../image.php:44
+msgid "Next &rarr;"
+msgstr "Sonraki &rarr;"
+
+#: ../image.php:104
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Bir "
+"yorum yaz</a> ya da bir geri izleme ekle: <a class=\"trackback-link\" "
+"href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Geri "
+"İzleme Adresi</a>."
+
+#: ../image.php:106
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" "
+"rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"Yorumlar kapalı ama bir geri izleme bırakabilirsiniz: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" "
+"rel=\"trackback\">Geri İzleme Adresi</a>."
+
+#: ../image.php:108
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Geri izleme kapalı ama <a class=\"comment-link\" href=\"#respond\" "
+"title=\"Post a comment\">yorum yazabilirsiniz</a>."
+
+#: ../image.php:110
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Yorumlar ve geri izleme kapalı."
+
+#: ../inc/catchkathmandu-functions.php:1529
+#: ../inc/panel/customizer/customizer.php:633
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../inc/catchkathmandu-functions.php:1534
+#: ../inc/panel/customizer/customizer.php:643
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/catchkathmandu-functions.php:1539
+#: ../inc/panel/customizer/customizer.php:653
+msgid "Google+"
+msgstr "Google+"
+
+#: ../inc/catchkathmandu-functions.php:1544
+#: ../inc/panel/customizer/customizer.php:693
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../inc/catchkathmandu-functions.php:1549
+#: ../inc/panel/customizer/customizer.php:663
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/catchkathmandu-functions.php:1554
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../inc/catchkathmandu-functions.php:1559
+#: ../inc/panel/customizer/customizer.php:683
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/catchkathmandu-functions.php:1564
+msgid "SlideShare"
+msgstr "SlideShare"
+
+#: ../inc/catchkathmandu-functions.php:1569
+msgid "FourSquare"
+msgstr "FourSquare"
+
+#: ../inc/catchkathmandu-functions.php:1574
+#: ../inc/panel/customizer/customizer.php:723
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/catchkathmandu-functions.php:1579
+#: ../inc/panel/customizer/customizer.php:733
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../inc/catchkathmandu-functions.php:1584
+#: ../inc/panel/customizer/customizer.php:743
+msgid "deviantART"
+msgstr "deviantART"
+
+#: ../inc/catchkathmandu-functions.php:1589
+#: ../inc/panel/customizer/customizer.php:753
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../inc/catchkathmandu-functions.php:1594
+#: ../inc/panel/customizer/customizer.php:763
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../inc/catchkathmandu-functions.php:1599
+#: ../inc/panel/customizer/customizer.php:773
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../inc/catchkathmandu-functions.php:1604
+#: ../inc/panel/customizer/customizer.php:783
+msgid "RSS"
+msgstr "RSS"
+
+#: ../inc/catchkathmandu-functions.php:1609
+#: ../inc/panel/customizer/customizer.php:793
+msgid "Delicious"
+msgstr "Delicious"
+
+#: ../inc/catchkathmandu-functions.php:1614
+#: ../inc/panel/customizer/customizer.php:803
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: ../inc/catchkathmandu-functions.php:1619
+#: ../inc/panel/customizer/customizer.php:813
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../inc/catchkathmandu-functions.php:1624
+#: ../inc/panel/customizer/customizer.php:823
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../inc/catchkathmandu-functions.php:1629
+#: ../inc/panel/customizer/customizer.php:833
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: ../inc/catchkathmandu-functions.php:1634
+#: ../inc/panel/customizer/customizer.php:843
+msgid "My World"
+msgstr "My World"
+
+#: ../inc/catchkathmandu-functions.php:1639
+#: ../inc/panel/customizer/customizer.php:853
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: ../inc/catchkathmandu-functions.php:1644
+msgid "GoodReads"
+msgstr "GoodReads"
+
+#: ../inc/catchkathmandu-functions.php:1649
+#: ../inc/panel/customizer/customizer.php:873
+msgid "Skype"
+msgstr "Skype"
+
+#: ../inc/catchkathmandu-functions.php:1654
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: ../inc/catchkathmandu-functions.php:1659
+#: ../inc/panel/customizer/customizer.php:893
+msgid "Email"
+msgstr "E-posta"
+
+#: ../inc/catchkathmandu-functions.php:1664
+#: ../inc/panel/customizer/customizer.php:903
+msgid "Contact"
+msgstr "Contact"
+
+#: ../inc/catchkathmandu-functions.php:1669
+#: ../inc/panel/customizer/customizer.php:913
+msgid "Xing"
+msgstr "Xing"
+
+#: ../inc/catchkathmandu-functions.php:1674
+#: ../inc/panel/customizer/customizer.php:923
+msgid "Meetup"
+msgstr "Meetup"
+
+#: ../inc/catchkathmandu-functions.php:1767
+msgid "ID"
+msgstr "ID"
+
+#: ../inc/catchkathmandu-widgets.php:14
+msgid "Main Sidebar"
+msgstr "Ana Yan Sütun"
+
+#: ../inc/catchkathmandu-widgets.php:16
+msgid "Shows the Widgets at the side of Content"
+msgstr "İçeriğin kenarında bileşenleri gösterir"
+
+#: ../inc/catchkathmandu-widgets.php:25
+msgid "Header Right Sidebar"
+msgstr "Başlık "
+
+#: ../inc/catchkathmandu-widgets.php:27
+msgid "Shows the Widgets at the Top Right Side of Header"
+msgstr "Sayfa Tepesinin Sağında Bileşenleri Gösterir"
+
+#: ../inc/catchkathmandu-widgets.php:36
+msgid "Footer Area One"
+msgstr "Sayfa Altı Bölgesi - Bir"
+
+#: ../inc/catchkathmandu-widgets.php:38 ../inc/catchkathmandu-widgets.php:49
+#: ../inc/catchkathmandu-widgets.php:60 ../inc/catchkathmandu-widgets.php:71
+msgid "An optional widget area for your site footer"
+msgstr "Sitede sayfanın altında isteğe bağlı bir bileşenler bölgesi"
+
+#: ../inc/catchkathmandu-widgets.php:47
+msgid "Footer Area Two"
+msgstr "Sayfa Altı Bölgesi - İki"
+
+#: ../inc/catchkathmandu-widgets.php:58
+msgid "Footer Area Three"
+msgstr "Sayfa Altı Bölgesi - Üç"
+
+#: ../inc/catchkathmandu-widgets.php:69
+msgid "Footer Area Four"
+msgstr "Sayfa Altı Bölgesi - Dört"
+
+#: ../inc/catchkathmandu-widgets.php:99
+msgid "CT: Social Widget"
+msgstr ""
+
+#: ../inc/catchkathmandu-widgets.php:100
+msgid ""
+"Use this widget to add Social Icons from Social Icons Settings as a widget."
+msgstr ""
+
+#: ../inc/catchkathmandu-widgets.php:113
+msgid "Title (optional):"
+msgstr "Başlık (isteğe bağlı):"
+
+#: ../inc/custom-header.php:79
+msgid "Default Logo"
+msgstr "Varsayılan Logo"
+
+#: ../inc/custom-header.php:85
+msgid "Catch Kathmandu Logo"
+msgstr "Catch Kathmandu Logosu"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:103
+msgid "Copyright"
+msgstr "Telif Hakları"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:103
+msgid "All Rights Reserved"
+msgstr "Tüm Hakları Saklıdır"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:103
+msgid "Catch Kathmandu by"
+msgstr "Catch Kathmandu by"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:122
+msgid "Y"
+msgstr "Y"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:143
+msgid "https://catchthemes.com"
+msgstr "https://catchthemes.com"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:143
+msgid "Catch Themes"
+msgstr "Catch Temaları"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:154
+msgid "Light (Blue)"
+msgstr "Açık"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:155
+msgid "Dark"
+msgstr "Koyu"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:156
+msgid "Light (Black)"
+msgstr "Light (Black)"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:170
+msgid "3 Columns"
+msgstr "3 sütun"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:171
+msgid "4 Columns"
+msgstr "4 sütun"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:185
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:284
+msgid "Homepage"
+msgstr "Ana Sayfa"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:186
+msgid "Excluding Homepage"
+msgstr "Ana Sayfa haricinde"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:187
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:285
+msgid "Entire Site"
+msgstr "Sitenin Tümü"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:188
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "Sitenin tümü, Sayfa/İleti Öne Çıkan Görseli"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:189
+msgid "Pages & Posts"
+msgstr "Sayfalar ve İletiler"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:190
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:286
+msgid "Disable"
+msgstr "Kapat"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:204
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:220
+msgid "Full Image"
+msgstr "Görselin tamamı"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:205
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:221
+msgid "Slider Image"
+msgstr "Slayt görseli"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:206
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:222
+msgid "Featured Image"
+msgstr "Öne çıkan görsel"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:223
+msgid "Disable Image"
+msgstr "Görsel gösterme"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:237
+msgid "Right Sidebar"
+msgstr "Sağ Yan Sütun"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:238
+msgid "Left Sidebar"
+msgstr "Sol Yan Sütun"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:239
+msgid "No Sidebar"
+msgstr "Yan Sütun yok"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:253
+#: ../inc/panel/customizer/customizer.php:408
+msgid "Full Content Display"
+msgstr "Tam İçerik Gösterimi"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:254
+msgid "Excerpt/Blog Display"
+msgstr "Alıntı/Blog Gösterimi"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:268
+msgid "Demo"
+msgstr ""
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:269
+msgid "Post"
+msgstr ""
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:270
+#, fuzzy
+#| msgid "Category Slider"
+msgid "Category"
+msgstr "Kategori İçin Slayt"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:300
+msgid "fade"
+msgstr "soluklaş"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:301
+msgid "wipe"
+msgstr "sil"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:302
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:304
+msgid "scrollUp"
+msgstr "yukarı kay"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:303
+msgid "scrollDown"
+msgstr "aşağı kay"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:305
+msgid "scrollLeft"
+msgstr "sola kay"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:306
+msgid "scrollRight"
+msgstr "sağa kay"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:307
+msgid "blindX"
+msgstr "kepenk X"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:308
+msgid "blindY"
+msgstr "kepenk Y"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:309
+msgid "blindZ"
+msgstr "kepenk Z"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:310
+msgid "cover"
+msgstr "kapla"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:311
+msgid "shuffle"
+msgstr "karıştır"
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:34
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:48
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:61
+msgid "Theme Instructions"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:65
+msgid "Support"
+msgstr "Destek"
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:69
+msgid "Changelog"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:73
+msgid "Donate Now"
+msgstr "Bağış Yap"
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:77
+msgid "Review"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:36
+msgid "Color Scheme"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:49
+msgid "Theme Options"
+msgstr "Tema Seçenekleri"
+
+#: ../inc/panel/customizer/customizer.php:50
+msgid "Basic theme Options"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:54
+msgid "Homepage Headline Options"
+msgstr "Ana Sayfa Tepesi Seçenekleri"
+
+#: ../inc/panel/customizer/customizer.php:59
+msgid "Featured Content Options"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:64
+msgid "Homepage/Frontpage Settings"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:69
+msgid "Responsive Design"
+msgstr "Cihaza Duyarlı Tasarım"
+
+#: ../inc/panel/customizer/customizer.php:74
+msgid "Header Options"
+msgstr "Sayfa Tepesi Seçenekleri"
+
+#: ../inc/panel/customizer/customizer.php:79
+msgid "Header Featured image Options"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:84
+msgid "Content Featured Image Options"
+msgstr "İçerikte Öne Çıkan Görsel Seçenekleri"
+
+#: ../inc/panel/customizer/customizer.php:89
+msgid "Layout Options"
+msgstr "Yerleşim Seçenekleri"
+
+#: ../inc/panel/customizer/customizer.php:94
+msgid "Search Text Settings"
+msgstr "Arama Metni Ayarları"
+
+#: ../inc/panel/customizer/customizer.php:99
+msgid "Excerpt / More Tag Settings"
+msgstr "Alıntı / Devam Etiketi Ayarları"
+
+#: ../inc/panel/customizer/customizer.php:104
+msgid "Feed Redirect"
+msgstr "Feed Yönlendirme"
+
+#: ../inc/panel/customizer/customizer.php:105
+msgid ""
+"This options will be retired in next version as per WordPress.org theme "
+"review rules"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:109
+msgid "Custom CSS"
+msgstr "İsteğe Bağlı CSS"
+
+#: ../inc/panel/customizer/customizer.php:114
+msgid "Scroll Up"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:123
+#: ../inc/panel/customizer/customizer.php:124
+msgid "Featured Slider"
+msgstr "Öne Çıkan Slayt"
+
+#: ../inc/panel/customizer/customizer.php:128
+msgid "Slider Options"
+msgstr "Slayt Seçenekleri"
+
+#: ../inc/panel/customizer/customizer.php:136
+msgid "Social Links"
+msgstr "Sosyal Ağ Linkleri"
+
+#: ../inc/panel/customizer/customizer.php:137
+msgid "Add your social links here"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:141
+msgid "Predefined Social Icons"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:148
+msgid "Tools"
+msgstr "Araçlar"
+
+#: ../inc/panel/customizer/customizer.php:153
+msgid "Header and Footer Codes"
+msgstr "Sayfa Tepesi ve Altı Kodları"
+
+#: ../inc/panel/customizer/customizer.php:198
+msgid "Homepage Headline Text"
+msgstr "Ana Sayfa Başlık Metni"
+
+#: ../inc/panel/customizer/customizer.php:199
+#: ../inc/panel/customizer/customizer.php:1372
+msgid "Appropriate Words: 10"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:208
+msgid "Homepage Subheadline Text"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:209
+msgid "Appropriate Words: 15"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:218
+msgid "Homepage Headline Button Text "
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:219
+msgid "Appropriate Words: 3"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:228
+msgid "Homepage Headline Link"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:229
+msgid "Add link for your homepage headline button"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:238
+msgid "Check to Disable Homepage Headline"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:248
+msgid "Check to Disable Homepage Subheadline"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:258
+msgid "Check to Disable Homepage Button"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:269
+msgid "Check to Disable Featured Content"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:279
+msgid "Headline"
+msgstr "Başlık"
+
+#: ../inc/panel/customizer/customizer.php:289
+msgid "Number of Featured Content"
+msgstr "Öne Çıkan İçerik Sayısı"
+
+#: ../inc/panel/customizer/customizer.php:305
+msgid "Featured Content Layout"
+msgstr "Öne Çıkan İçerik Yerleşimi"
+
+#: ../inc/panel/customizer/customizer.php:318
+msgid "Check to Enable Latest Posts on homepage"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:328
+msgid "Homepage posts categories:"
+msgstr "Ana Sayfa ileti kategorileri:"
+
+#: ../inc/panel/customizer/customizer.php:329
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:338
+msgid "Check to Move above Featured Content"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:350
+msgid "Check to Disable Responsive Design"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:360
+msgid "Check to Enable Secondary Menu in Mobile Devices"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:372
+msgid "Check to Disable Header Right Sidebar"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:384
+msgid "Content Featured Image Size"
+msgstr "İçerik Öne Çıkan Görsel Boyutu"
+
+#: ../inc/panel/customizer/customizer.php:397
+msgid "Sidebar Layout Options"
+msgstr "Yan Sütun Yerleşim Seçenekleri"
+
+#: ../inc/panel/customizer/customizer.php:419
+msgid "Check to Reset Layout"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:420
+#: ../inc/panel/customizer/customizer.php:471
+#: ../inc/panel/customizer/customizer.php:608
+#: ../inc/panel/customizer/customizer.php:1024
+#: ../inc/panel/customizer/customizer.php:1094
+msgid "Please refresh the customizer after saving if reset option is used"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:432
+msgid "Default Display Text in Search"
+msgstr "Aramada Gösterilecek Varsayılan Yazı"
+
+#: ../inc/panel/customizer/customizer.php:444
+msgid "More Tag Text"
+msgstr "Arama Etiketi Metni"
+
+#: ../inc/panel/customizer/customizer.php:454
+msgid "Excerpt length(words)"
+msgstr "Alıntı uzunluğu (sözcük)"
+
+#: ../inc/panel/customizer/customizer.php:470
+msgid "Check to Reset Excerpt"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:483
+msgid "Feed Redirect URL"
+msgstr "Feed yönlendirme için URL"
+
+#: ../inc/panel/customizer/customizer.php:484
+msgid "Add in the Feedburner URL"
+msgstr "Feedburner URL içinde Ekle"
+
+#: ../inc/panel/customizer/customizer.php:495
+msgid "Enter your custom CSS styles"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:507
+msgid "Check to Disable Scroll Up"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:519
+msgid "Enable Slider"
+msgstr "Slayt DEvreye Girsin"
+
+#: ../inc/panel/customizer/customizer.php:530
+msgid "Transition Effect"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:542
+msgid "Transition Delay"
+msgstr "Geçiş Bekleme Süresi"
+
+#: ../inc/panel/customizer/customizer.php:559
+msgid "Transition Length"
+msgstr "Geçiş Bekleme Süresi"
+
+#: ../inc/panel/customizer/customizer.php:576
+msgid "Select Slider Type"
+msgstr "Slayt Tipini Seç"
+
+#: ../inc/panel/customizer/customizer.php:588
+msgid "Number of Slides"
+msgstr "Slayt Görseli Sayısı"
+
+#: ../inc/panel/customizer/customizer.php:589
+msgid ""
+"Customizer page needs to be refreshed after saving if number of slides is "
+"changed"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:607
+msgid "Check to Exclude Slider posts from Homepage posts"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:620
+msgid "Select Slider Categories"
+msgstr "Slayt İçin Kategorileri Seç"
+
+#: ../inc/panel/customizer/customizer.php:621
+msgid ""
+"Use this only is you want to display posts from Specific Categories in "
+"Featured Slider"
+msgstr ""
+"Öne Çıkan Slayt olarak belirli katerogilerden iletileri göstermek "
+"istiyorsanız bu seçeneği kullanın."
+
+#: ../inc/panel/customizer/customizer.php:673
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../inc/panel/customizer/customizer.php:703
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: ../inc/panel/customizer/customizer.php:713
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: ../inc/panel/customizer/customizer.php:863
+msgid "Goodreads"
+msgstr "Goodreads"
+
+#: ../inc/panel/customizer/customizer.php:883
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: ../inc/panel/customizer/customizer.php:934
+msgid "Header Code"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:935
+msgid ""
+"Here you can put scripts from Google, Facebook, Twitter, Add This etc. which "
+"will load on Header"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:945
+msgid "Footer Code"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:946
+msgid ""
+"Here you can put scripts from Google, Facebook, Twitter, Add This etc. which "
+"will load on footer"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:961
+#: ../inc/panel/customizer/customizer.php:1040
+msgid "Enable Featured Header Image"
+msgstr "Öne Çıkan Sayfa Tepesi Görselini devreye sok"
+
+#: ../inc/panel/customizer/customizer.php:972
+#: ../inc/panel/customizer/customizer.php:1052
+msgid "Page/Post Featured Image Size"
+msgstr "Sayfa/İleti Öne Çıkan Görsel Boyutu"
+
+#: ../inc/panel/customizer/customizer.php:983
+msgid "Featured Header Image"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:993
+#: ../inc/panel/customizer/customizer.php:1063
+msgid "Featured Header Image Alt/Title Tag"
+msgstr "Sayfa Tepesi Öne Çıkan Görseli Alt/Başlık Etiketi"
+
+#: ../inc/panel/customizer/customizer.php:1003
+#: ../inc/panel/customizer/customizer.php:1073
+msgid "Featured Header Image Link URL"
+msgstr "Sayfa Tepesi Öne Çıkan Görseli için Link URL"
+
+#: ../inc/panel/customizer/customizer.php:1013
+#: ../inc/panel/customizer/customizer.php:1083
+msgid "Check to Open Link in New Tab/Window"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:1023
+#: ../inc/panel/customizer/customizer.php:1093
+msgid "Check to Reset Header Featured Image Options"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:1267
+#, php-format
+msgid "Featured Content #%s"
+msgstr "Öne Çıkan İçerik #%s"
+
+#: ../inc/panel/customizer/customizer.php:1288
+msgid "Image"
+msgstr "Resim"
+
+#: ../inc/panel/customizer/customizer.php:1308
+msgid "Link URL"
+msgstr "Link URL"
+
+#: ../inc/panel/customizer/customizer.php:1328
+msgid "Target. Open Link in New Window?"
+msgstr "Hedefteki sayfa yeni pencerede mi açılsın?"
+
+#: ../inc/panel/customizer/customizer.php:1348
+msgid "Title"
+msgstr "Başlık"
+
+#: ../inc/panel/customizer/customizer.php:1351
+msgid "Leave empty if you want to remove title"
+msgstr "Başlığı kaldırmak için boş bırakın"
+
+#: ../inc/panel/customizer/customizer.php:1369
+msgid "Content"
+msgstr "İçerik"
+
+#: ../inc/panel/customizer/customizer.php:1393
+#, php-format
+msgid "Featured Post Slider #%s"
+msgstr "Öne Çıkan İleti İçin Slayt #%s"
+
+#: ../inc/panel/customizer/customizer.php:1408
+msgid ""
+"Caution: Reset all settings to default. Refresh the page after save to view "
+"full effects."
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:1410
+msgid "Reset all settings"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:1421
+msgid "Check to reset all settings to default"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:1431
+#: ../inc/panel/customizer/customizer.php:1442
+msgid "Important Links"
+msgstr ""
+
+#: ../inc/template-tags.php:51 ../inc/template-tags.php:112
+msgid "Post navigation"
+msgstr "İleti Dolaşımı"
+
+#: ../inc/template-tags.php:55 ../inc/template-tags.php:116
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../inc/template-tags.php:56 ../inc/template-tags.php:117
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: ../inc/template-tags.php:68 ../inc/template-tags.php:129 ../page-blog.php:55
+#: ../page-blog.php:89
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Daha eski iletiler"
+
+#: ../inc/template-tags.php:72 ../inc/template-tags.php:133 ../page-blog.php:56
+#: ../page-blog.php:90
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Daha yeni iletiler <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/template-tags.php:163
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/template-tags.php:163
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: ../inc/template-tags.php:178
+msgid "Post author"
+msgstr "İleti Yazarı"
+
+#: ../inc/template-tags.php:184
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s /  %2$s"
+
+#: ../inc/template-tags.php:190
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay bekliyor"
+
+#: ../inc/template-tags.php:199
+msgid "Reply"
+msgstr "Yanıt:"
+
+#: ../inc/template-tags.php:228 ../inc/template-tags.php:305
+#, php-format
+msgid "View all posts by %s"
+msgstr " %s tarafından yazılmış tüm iletileri gör"
+
+#: ../inc/template-tags.php:233
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %1$s</span><span class=\"by-author\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"on-date\">Yayınlandığı tarih %1$s</span>; <span class=\"by-"
+"author\"> yayınlayan %2$s</span>"
+
+#: ../inc/template-tags.php:257 ../inc/template-tags.php:260
+#: ../inc/template-tags.php:291 ../inc/template-tags.php:294
+msgid ", "
+msgstr ", "
+
+#: ../inc/template-tags.php:265
+#, php-format
+msgid ""
+"<span class=\"in-category\">Posted in %1$s</span><span class=\"sep\"> | </"
+"span><span class=\"in-tag\">Tagged %2$s</span>"
+msgstr ""
+"<span class=\"in-category\">Yayınlandığı yer %1$s</span><span class=\"sep\"> "
+"| </span><span class=\"in-tag\">Etiketi %2$s</span>"
+
+#: ../inc/template-tags.php:267
+#, php-format
+msgid "<span class=\"in-category\">Posted in %1$s</span>"
+msgstr "<span class=\"in-category\">Yayınlandığı yer %1$s</span>"
+
+#: ../inc/template-tags.php:311
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %3$s</span><span class=\"in-category\"> "
+"under %1$s</span><span class=\"sep\"> | </span><span class=\"in-tag\">Tagged "
+"%2$s</span><span class=\"sep\"> | </span><span class=\"by-author\"> By %4$s</"
+"span>"
+msgstr ""
+"<span class=\"on-date\">Yayınlanma tarihi %3$s</span><span class=\"in-"
+"category\"> ve kategorisi %1$s</span><span class=\"sep\"> | </span><span "
+"class=\"in-tag\">Etiketi %2$s</span><span class=\"sep\"> | </span><span "
+"class=\"by-author\"> Yazan %4$s</span>"
+
+#: ../inc/template-tags.php:313
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %3$s</span><span class=\"in-category\"> "
+"under in %1$s</span><span class=\"sep\"> | </span><span class=\"by-author\"> "
+"By %4$s</span>."
+msgstr ""
+"<span class=\"on-date\">Yayınlandığı tarih %3$s</span><span class=\"in-"
+"category\"> ve kategorisi %1$s<span><span class=\"sep\"> | </span><span "
+"class=\"by-author\"> Yazan %4$s</span>."
+
+# Dr. Hakan Gür
+# www.dildersleri.gen.tr
+#: ../inc/template-tags.php:315
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %3$s</span><span class=\"sep\"> | </"
+"span><span class=\"by-author\"> By %4$s</span>."
+msgstr ""
+"<span class=\"on-date\">Yayınlandığı tarih %3$s</span><span class=\"sep\"> | "
+"</span><span class=\"by-author\"> Yazan %4$s</span>."
+
+#: ../no-results.php:15
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: ../no-results.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"İlk iletinizi yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</"
+"a>."
+
+#: ../no-results.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Arama teriminize uygun bir sonuç bulunamadı. Farklı terimlerle yeniden "
+"aramayı deneyin."
+
+#: ../no-results.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Aradığınız bilgi bulunamadı. Farklı seçeneklerle yeniden aramayı "
+"deneyebilirsiniz."
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Terim için arama sonuçları: %s"
+
+#: ../searchform.php:16
+msgid "Search"
+msgstr "Ara"
+
+#: ../sidebar.php:36
+msgid "Archives"
+msgstr "Arşivler"
+
+#~ msgid "Menu"
+#~ msgstr "Mönü"
+
+#~ msgid "Skip to content"
+#~ msgstr "İçeriğe geç"
+
+#~ msgid "Audio"
+#~ msgstr "İşitsel"
+
+#~ msgid "Chat"
+#~ msgstr "Sohbet"
+
+#~ msgid "Gallery"
+#~ msgstr "Galeri"
+
+#~ msgid "Link"
+#~ msgstr "Link "
+
+#~ msgid "Status"
+#~ msgstr "Statü"
+
+#~ msgid "Video"
+#~ msgstr "Video "
+
+#~ msgid "Catch Kathmandu Options"
+#~ msgstr "Catch Kathmandu Seçenekleri"
+
+#~ msgid "Default"
+#~ msgstr "Varsayılan"
+
+#~ msgid "Enable"
+#~ msgstr "Etkinleştir"
+
+#~ msgid "Default Layout Set in"
+#~ msgstr "Varsayılan Sayfa Yerleşimi düzeni"
+
+#~ msgid "Right sidebar"
+#~ msgstr "Sağ yan sütun"
+
+#~ msgid "Left sidebar"
+#~ msgstr "Sol yan sütun"
+
+#~ msgid "No sidebar"
+#~ msgstr "Yan sütun yok"
+
+#~ msgid "Sidebar Layout"
+#~ msgstr "Yan Sütun Yerleşimi"
+
+#~ msgid "Header Featured Image Options"
+#~ msgstr "Sayfa Tepesinde Öne Çıkan Görsel Seçenekleri"
+
+#~ msgid "Post Slider"
+#~ msgstr "İleti İçin Slayt"
+
+#~ msgid "Options Saved"
+#~ msgstr "Seçenek kaydedildi"
+
+#~ msgid "Theme Options By"
+#~ msgstr "Tema Seçeneklerini Sağlayan"
+
+#~ msgid "https://catchthemes.com/"
+#~ msgstr "https://catchthemes.com/"
+
+#~ msgid "https://catchthemes.com/themes/catch-kathmandu-pro/"
+#~ msgstr "https://catchthemes.com/themes/catch-kathmandu-pro/"
+
+#~ msgid "Upgrade to Catch Kathmandu Pro"
+#~ msgstr "Catch Kathmandu Pro temasına yükselt"
+
+#~ msgid "https://catchthemes.com/donate/"
+#~ msgstr "https://catchthemes.com/donate/"
+
+#~ msgid "Donate to Catch Kathmandu"
+#~ msgstr "Catch Kathmandu için bağış yap"
+
+#~ msgid "https://catchthemes.com/support/"
+#~ msgstr "https://catchthemes.com/support/"
+
+#~ msgid "https://catchthemes.com/theme-instructions/catch-kathmandu/"
+#~ msgstr "https://catchthemes.com/theme-instructions/catch-kathmandu/"
+
+#~ msgid "Theme Instruction"
+#~ msgstr "Tema Yönergesi"
+
+#~ msgid "https://www.facebook.com/catchthemes/"
+#~ msgstr "https://www.facebook.com/catchthemes/"
+
+#~ msgid "Like Catch Themes on Facebook"
+#~ msgstr "Catch Temalarını Facebook üzerinde beğen"
+
+#~ msgid "https://twitter.com/catchthemes/"
+#~ msgstr "https://twitter.com/catchthemes/"
+
+#~ msgid "Follow Catch Themes on Twitter"
+#~ msgstr "Twitter üzerinde Catch Temalaını izle"
+
+#~ msgid "http://wordpress.org/support/view/theme-reviews/catch-kathmandu"
+#~ msgstr "http://wordpress.org/support/view/theme-reviews/catch-kathmandu"
+
+#~ msgid "Rate us 5 Star on WordPress"
+#~ msgstr "WordPress sitesinde 5 yıldızla değerlendir"
+
+#~ msgid "5 Star Rating"
+#~ msgstr "5 Yıldızla Değerlendir"
+
+#~ msgid "The appropriate length for Headine is around 10 words."
+#~ msgstr "Başlık için uygun uzunluk yaklaşık 10 sözcük."
+
+#~ msgid "Homepage Subheadline Headline"
+#~ msgstr "Ana Sayfa Alt Başlığı"
+
+#~ msgid "The appropriate length for Headine is around 15 words."
+#~ msgstr "Alt başlık için uygun uzunluk yaklaşık 15 sözcük."
+
+#~ msgid "Homepage Headline Button Text"
+#~ msgstr "Ana Sayfa Başlığı Düğme Metni"
+
+#~ msgid "The appropriate length for Headine is around 3 words."
+#~ msgstr "Uygun metin uzunluğu yaklaşık 3 sözcük."
+
+#~ msgid "Headine Link"
+#~ msgstr "Başlık Linki"
+
+#~ msgid "Disable Homepage Headline?"
+#~ msgstr "Ana Sayfa Başlığı kapatılsın mı?"
+
+#~ msgid "Check to disable"
+#~ msgstr "Kaldırmak için işaretle "
+
+#~ msgid "Disable Homepage Subheadline?"
+#~ msgstr "Ana Sayfa Alt Başlığı kapatılsın mı?"
+
+#~ msgid "Disable Homepage Button?"
+#~ msgstr "Ana Sayfa Düğmesi kapatılsın mı?"
+
+#~ msgid "Save Changes"
+#~ msgstr "Değişiklikleri kaydet"
+
+#~ msgid "Leave empty if you want to remove headline"
+#~ msgstr "Başlığı kaldırmak istiyorsanız boş bırakın"
+
+#~ msgid "Insert as Featured Content #%s"
+#~ msgstr "Insert as Featured Content #%s"
+
+#~ msgid "Change Image"
+#~ msgstr "Görseli değiştir"
+
+#~ msgid "Add Image"
+#~ msgstr "Görsel ekle"
+
+#~ msgid "Add in the Target URL for the content"
+#~ msgstr "İçerik için hedef URL ekle"
+
+#~ msgid "Check to open in new window"
+#~ msgstr "Yeni sayfada açılması için işaretle"
+
+#~ msgid "The appropriate length for Content is around 10 words."
+#~ msgstr "İçerik için uygun uzunluk yaklaşık 10 sözcük."
+
+#~ msgid "Homepage / Frontpage Settings"
+#~ msgstr "Ana Sayfa / Ön Sayfa Ayarları"
+
+#~ msgid "Enable Latest Posts?"
+#~ msgstr "En Yeni İletiler devreye sokulsun mu?"
+
+#~ msgid "Check to Enable"
+#~ msgstr "Devreye sokmak için işaretle"
+
+#~ msgid "Add Page instead of Latest Posts"
+#~ msgstr "En Yeni İletiler yerine Sayfa ekle"
+
+#~ msgid "Click Here to Set Static Front Page Instead of Latest Posts"
+#~ msgstr ""
+#~ "En Yeni İletiler yerine Statik Ön Sayfa belirlemek için burayı tıklayın"
+
+#~ msgid ""
+#~ "Only posts that belong to the categories selected here will be displayed "
+#~ "on the front page."
+#~ msgstr ""
+#~ "Yalnızca burada belirlenen kategorideki iletiler ön sayfada gösterilecek."
+
+#~ msgid "--Disabled--"
+#~ msgstr "-- Devre dışı --"
+
+#~ msgid "You may select multiple categories by holding down the CTRL key."
+#~ msgstr "CTRL tuşunu basılı tutarak birden fazla kategori seçebilirsiniz."
+
+#~ msgid "Check to Move"
+#~ msgstr "Taşımak için işaretle"
+
+#~ msgid "Disable Responsive Design?"
+#~ msgstr "Cihaza Duyarlı Tasarım kaldırılsın mı?"
+
+#~ msgid "Enable Secondary Menu in Mobile Devices?"
+#~ msgstr "Taşınabilir cihazlarda İkincil Mönü devreye girsin mi?"
+
+#~ msgid "Check to enable"
+#~ msgstr "Devreye sokmak için işaretle"
+
+#~ msgid "Custom Header: Logo & Site Details"
+#~ msgstr "İsteğinize Başlı Sayfa Tepesi: Logo ve Site Ayrıntıları"
+
+#~ msgid "Click Here to Add/Replace Header Logo & Site Details"
+#~ msgstr "Logo ve Site Ayrıntılarını eklemek/kaldırmak için burayı tıklayın"
+
+#~ msgid "Disable Header Right Sidebar?"
+#~ msgstr "Sayfa Tepesi Sağ Yan Sütun devreden çıkarılsın mı?"
+
+#~ msgid "Check to Disable"
+#~ msgstr "Devreden çıkarmak için işaretle"
+
+#~ msgid "Widgets"
+#~ msgstr "Bileşenler"
+
+#~ msgid "Click Here to Add/Replace Widgets"
+#~ msgstr "Bileşen eklemek/kaldırmak için burayı tıkla"
+
+#~ msgid "Featured Header Image URL"
+#~ msgstr "Sayfa Tepesi Öne Çıkan Görseli İçin URL"
+
+#~ msgid "Insert as Featured Header Image"
+#~ msgstr "Insert as Featured Header Image"
+
+#~ msgid "Change Header Image"
+#~ msgstr "Change Header Image"
+
+#~ msgid "Reset Header Featured Image Options?"
+#~ msgstr "Sayfa Tepesi Öne Çıkan Görsel ayarları başa alınsın mı?"
+
+#~ msgid "Check to reset"
+#~ msgstr "Başa almak için işaretle"
+
+#~ msgid "Content Layout"
+#~ msgstr "İçerik Yerleşimi"
+
+#~ msgid "Reset Layout?"
+#~ msgstr "Yerleşim başa alınsın mı?"
+
+#~ msgid "Color Options"
+#~ msgstr "Renk Seçenekleri"
+
+#~ msgid "Default Color Scheme"
+#~ msgstr "Varsayılan Renk Düzeni"
+
+#~ msgid "Custom Background Color:"
+#~ msgstr "İsteğe Başlı Arka Plan Rengi:"
+
+#~ msgid "Click Here to change Background Color/Image"
+#~ msgstr "Arka Plan rengini/görselini değiştirmek için burayı tıklayın"
+
+#~ msgid "Custom Header: "
+#~ msgstr "İsteğe Bağlı Sayfa Tepesi"
+
+#~ msgid "Click Here to change Site Title and Tagline Color"
+#~ msgstr "Başlık ve Tanıtım Satırı rengini değiştirmek için burayı tıklayın"
+
+#~ msgid "Reset Excerpt?"
+#~ msgstr "Alıntı ayarları başa alınsın mı?"
+
+#~ msgid "Enter your custom CSS styles."
+#~ msgstr "Kendi CSS kodlarınızı yazın."
+
+#~ msgid "CSS Tutorial from W3Schools."
+#~ msgstr "W3Schools adresinden CSS İpuçları."
+
+#~ msgid "http://www.w3schools.com/css/default.asp"
+#~ msgstr "http://www.w3schools.com/css/default.asp"
+
+#~ msgid "CSS Tutorial"
+#~ msgstr "CSS İpuçları"
+
+#~ msgid "Click Here to Read"
+#~ msgstr "Okumak İçin Burayı Tıklayın"
+
+#~ msgid "Transition Effect:"
+#~ msgstr "Geçiş Efekti:"
+
+#~ msgid "second(s)"
+#~ msgstr "saniye"
+
+#~ msgid "Featured Post Slider Options"
+#~ msgstr "Öne Çıkan İleti Slayt Seçenekleri"
+
+#~ msgid "Exclude Slider post from Homepage posts?"
+#~ msgstr "Slaytın iletisi Ana Sayfa iletilerinden çıkarılsın mı?"
+
+#~ msgid "Check to exclude"
+#~ msgstr "Çıkarmak için işaretle"
+
+#~ msgid "Click Here To Edit"
+#~ msgstr "Düzenlemek için burayı tıklayın"
+
+#~ msgid ""
+#~ "Note: Here You can put your Post IDs which displays on Homepage as slider."
+#~ msgstr ""
+#~ "Not: Ana Sayfada slayt olarak sergilenecek iletiler için ID sayılarını "
+#~ "buraya ekleyebilirsiniz."
+
+#~ msgid "Featured Category Slider Options"
+#~ msgstr "Öne Çıkan Kategori Slayt Seçenekleri"
+
+#~ msgid ""
+#~ "Note: Here you can select the categories from which latest posts will "
+#~ "display on Featured Slider."
+#~ msgstr ""
+#~ "Not: Ana Sayfada slayt olarak iletileri sergilenecek olan kategorileri "
+#~ "buradan seçebilirsiniz."
+
+#~ msgid "Predefine Social Icons"
+#~ msgstr "Sosyal Ağ Simgeleri Ön Tanımla"
+
+#~ msgid "Linkedin"
+#~ msgstr "Linkedin"
+
+#~ msgid "Code to display on Header"
+#~ msgstr "Sayfa tepesinde gösterilecek kod"
+
+#~ msgid ""
+#~ "Note: Note: Here you can put scripts from Google, Facebook, Twitter, Add "
+#~ "This etc. which will load on Header"
+#~ msgstr ""
+#~ "Not: Buraya Google, Facebook, Twitter, Add This vs. kodlarınızı "
+#~ "ekleyebilirsiniz Bu kodlar sayfa tepesinde gösterilir."
+
+#~ msgid "Code to display on Footer"
+#~ msgstr "Sayfa altında gösterilecek kod"
+
+#~ msgid ""
+#~ "Note: Here you can put scripts from Google, Facebook, Twitter, Add This "
+#~ "etc. which will load on footer"
+#~ msgstr ""
+#~ "Not: Buraya Google, Facebook, Twitter, Add This vs. kodlarınızı "
+#~ "ekleyebilirsiniz Bu kodlar sayfa altında gösterilir."
+
+#~ msgid "One thought on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] " &ldquo;%2$s&rdquo; konusunda bir düşünce"
+#~ msgstr[1] "%1$s Kommentare zu &ldquo;%2$s&rdquo;"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Homepage Featured Content Options"
+#~ msgstr "Ana Sayfa Öne Çıkan İçerik Seçenekleri"
+
+#~ msgid "Favicon"
+#~ msgstr "Favicon"
+
+#~ msgid "Disable Homepage Featured Content?"
+#~ msgstr "Ana Sayfa Şne Çıkan İçeriği kapatılsın mı?"
+
+#~ msgid "Move above Homepage Featured Content?"
+#~ msgstr "Ana Sayfa Öne Çıkan İçeriğinin yukarısına taşınsın mı?"
+
+#~ msgid "Disable Favicon?"
+#~ msgstr "Favicon kaldırılsın mı?"
+
+#~ msgid "Fav Icon URL:"
+#~ msgstr "Favıcon için URL:"
+
+#~ msgid "Insert as Fav Icon"
+#~ msgstr "Insert as Fav Icon"
+
+#~ msgid "Change Fav Icon"
+#~ msgstr "Favicon değiştir"
+
+#~ msgid "Preview"
+#~ msgstr "Ön izleme"
+
+#~ msgid "Web Clip Icon Options"
+#~ msgstr "Web Clip İkon Seçenekleri"
+
+#~ msgid "Disable Web Clip Icon?"
+#~ msgstr "Web Clip İkon kapatılsın mı?"
+
+#~ msgid "Web Clip Icon URL:"
+#~ msgstr "Web Clip İkon için URL:"
+
+#~ msgid "Insert as Web Clip Icon"
+#~ msgstr "Insert as Web Clip Icon"
+
+#~ msgid "Change Web Clip Icon"
+#~ msgstr "Web Clip İkon değiştir"
+
+#~ msgid ""
+#~ "Note: Web Clip Icon for Apple devices. Recommended Size - Width 144px and "
+#~ "Height 144px height, which will support High Resolution Devices like iPad "
+#~ "Retina."
+#~ msgstr ""
+#~ "Not: Apple cihazlar için Web Clip İkon. Önerilen Boyut - genişlik 144px "
+#~ "ve yükseklik 144px; bu boyutlar iPad Retina gibi yüksek çözünürlük içeren "
+#~ "cihazları destekler."
+
+#~ msgid "Catch Kathmandu Pro"
+#~ msgstr "Catch Kathmandu Pro"
+
+#, fuzzy
+#~ msgid "Catch Kathmandu"
+#~ msgstr "Catch Kathmandu by"
+
+#, fuzzy
+#~ msgid "https://catchthemes.com/themes/catch-kathmandu"
+#~ msgstr "https://catchthemes.com/themes/catch-kathmandu-pro/"
+
+#~ msgid "Category Archives: %s"
+#~ msgstr "Kategori Arşivleri: %s"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "Etiket Arşivleri: %s"
+
+#~ msgid "Author Archives: %s"
+#~ msgstr "Yazar Arşivleri: %s"
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "Günlük Arşivler: %s"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "Aylık Arşivler: %s"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "Yıllık Arşivler: %s"
+
+#~ msgid "Page %s"
+#~ msgstr "Sayfa %s"
+
+#~ msgid ""
+#~ "Use this widget to add Social Icons from Social Icons Settings as a "
+#~ "widget. "
+#~ msgstr "Bu bileşeni kullanarak Sosyal Ağlar Simgelerini ekleyin."
+
+#~ msgid "1. Catch Kathmandu: Social"
+#~ msgstr "1. Catch Kathmandu: Sosyal"
+
+#~ msgid "More Theme Options &raquo;"
+#~ msgstr "More Theme Options &raquo;"
+
+#~ msgid "Homepage Settings"
+#~ msgstr "Ana Sayfa Ayarları"
+
+#~ msgid "Light"
+#~ msgstr "Açık"
+
+#~ msgid "Powered by"
+#~ msgstr "İşletim yazılımı"
+
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+#~ msgid "Upload Fav Icon"
+#~ msgstr "Favıcon yükle"
+
+#~ msgid "Featured Page Slider Options"
+#~ msgstr "Öne Çıkan Sayfa Slayt Seçenekleri"
+
+#~ msgid "Featured Page Slider #%s"
+#~ msgstr "Öne Çıkan Sayfa için Slayt #%s"
+
+#~ msgid ""
+#~ "Note: Here You can put your Page IDs which displays on Homepage as slider."
+#~ msgstr ""
+#~ "Not: Ana Sayfada Slayt olarak sergilenecek sayfalar için ID sayılarını "
+#~ "buraya ekleyebilirsiniz."
+
+#~ msgid "Featured Image Slider Options"
+#~ msgstr "Öne Çıkan Görsel Slayt Seçenekleri"
+
+#~ msgid "Featured Image Slider #%s"
+#~ msgstr "Öne Çıkan Görsel için Slayt #%s"
+
+#~ msgid "Upload"
+#~ msgstr "Yükle"
+
+#~ msgid "%s on Facebook"
+#~ msgstr "%s Facebook"
+
+#~ msgid "%s on Twitter"
+#~ msgstr "%s Twitter"
+
+#~ msgid "%s on Google+"
+#~ msgstr "%s Google+"
+
+#~ msgid "%s on Linkedin"
+#~ msgstr "%s Linkedin"
+
+#~ msgid "%s on Pinterest"
+#~ msgstr "%s Pinterest"
+
+#~ msgid "%s on Vimeo"
+#~ msgstr "%s Vimeo"
+
+#~ msgid "%s on Slideshare"
+#~ msgstr "%s Slideshare"
+
+#~ msgid "%s on Foursquare"
+#~ msgstr "%s Foursquare"
+
+#~ msgid "%s on Flickr"
+#~ msgstr "%s Flickr"
+
+#~ msgid "%s on Tumblr"
+#~ msgstr "%s Tumblr"
+
+#~ msgid "%s on deviantART"
+#~ msgstr "%s deviantART"
+
+#~ msgid "%s on Dribbble"
+#~ msgstr "%s Dribbble"
+
+#~ msgid "%s on MySpace"
+#~ msgstr "%s MySpace"
+
+#~ msgid "%s on WordPress"
+#~ msgstr "%s WordPress"
+
+#~ msgid "%s on RSS"
+#~ msgstr "%s RSS"
+
+#~ msgid "%s on Delicious"
+#~ msgstr "%s Delicious"
+
+#~ msgid "%s on Last.fm"
+#~ msgstr "%s Last.fm"
+
+#~ msgid "%s on Instagram"
+#~ msgstr "%s Instagram"
+
+#~ msgid "%s on GitHub"
+#~ msgstr "%s GitHub"
+
+#~ msgid "%s on Vkontakte"
+#~ msgstr "%s Vkontakte"
+
+#~ msgid "%s on My World"
+#~ msgstr "%s My World"
+
+#~ msgid "%s on Odnoklassniki"
+#~ msgstr "%s Odnoklassniki"
+
+#~ msgid "%s on Goodreads"
+#~ msgstr "%s Goodreads"
+
+#~ msgid "%s on Skype"
+#~ msgstr "%s Skype"
+
+#~ msgid "%s on Soundcloud"
+#~ msgstr "%s Soundcloud"
+
+#~ msgid "%s on Email"
+#~ msgstr "%s E-postası"
+
+#~ msgid "%s on Xing"
+#~ msgstr "%s on Xing"
+
+#~ msgid "http://facebook.com/catchthemes"
+#~ msgstr "http://facebook.com/catchthemes"
+
+#~ msgid "https://twitter.com/catchthemes"
+#~ msgstr "https://twitter.com/catchthemes"
