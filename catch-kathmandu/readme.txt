@@ -2,7 +2,7 @@
 Contributors: catchthemes
 Tags: black, blue, gray, white, dark,light, one-column, two-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, responsive-layout,  custom-background, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, front-page-post-form, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
 Requires at least: 5.6
-Tested up to: 6.5
+Tested up to: 6.7
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -72,6 +72,10 @@ Access to free support forum at https://catchthemes.com/support-forum/forum/catc
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 4.3.8 (Released: March 09, 2025) =
+* Updated: Responsive font sizes
+* Updated: WordPress 6.7 ready
 
 = 4.3.7 (Released: June 29, 2024) =
 * Updated: WordPress 6.5 ready
