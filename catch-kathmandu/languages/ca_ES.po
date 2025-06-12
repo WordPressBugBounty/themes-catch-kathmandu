@@ -1,11 +1,11 @@
-# Copyright (C) 2012-2022 the Catch Themes Team
+# Copyright (C) 2012-2025 the Catch Themes Team
 # This file is distributed under the  GNU General Public License.
 msgid ""
 msgstr ""
 "Project-Id-Version: Catch Kathmandu\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2024-06-29 22:38+0545\n"
-"PO-Revision-Date: 2024-06-29 22:38+0545\n"
+"POT-Creation-Date: 2025-06-12 12:05+0545\n"
+"PO-Revision-Date: 2025-06-12 12:05+0545\n"
 "Last-Translator: Jaume Albaigès <jaumealbaiges@hotmail.com>\n"
 "Language-Team: Jaume Albaigès <jaumealbaiges@hotmail.com>\n"
 "Language: ca_ES\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.6\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ..\n"
 
@@ -224,152 +224,176 @@ msgstr ""
 msgid "Both comments and trackbacks are currently closed."
 msgstr "Els comentaris i els retroenllaços estan tancats."
 
-#: ../inc/catchkathmandu-functions.php:1529
+#: ../inc/catchkathmandu-functions.php:1533
 #: ../inc/panel/customizer/customizer.php:633
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../inc/catchkathmandu-functions.php:1534
+#: ../inc/catchkathmandu-functions.php:1538
 #: ../inc/panel/customizer/customizer.php:643
 msgid "Twitter"
 msgstr "Twitter"
 
-#: ../inc/catchkathmandu-functions.php:1539
+#: ../inc/catchkathmandu-functions.php:1543
 #: ../inc/panel/customizer/customizer.php:653
 msgid "Google+"
 msgstr "Google+"
 
-#: ../inc/catchkathmandu-functions.php:1544
+#: ../inc/catchkathmandu-functions.php:1548
 #: ../inc/panel/customizer/customizer.php:693
 msgid "LinkedIn"
 msgstr "LinkedIn"
 
-#: ../inc/catchkathmandu-functions.php:1549
+#: ../inc/catchkathmandu-functions.php:1553
 #: ../inc/panel/customizer/customizer.php:663
 msgid "Pinterest"
 msgstr "Pinterest"
 
-#: ../inc/catchkathmandu-functions.php:1554
+#: ../inc/catchkathmandu-functions.php:1558
 msgid "YouTube"
 msgstr "YouTube"
 
-#: ../inc/catchkathmandu-functions.php:1559
+#: ../inc/catchkathmandu-functions.php:1563
 #: ../inc/panel/customizer/customizer.php:683
 msgid "Vimeo"
 msgstr "Vimeo"
 
-#: ../inc/catchkathmandu-functions.php:1564
+#: ../inc/catchkathmandu-functions.php:1568
 msgid "SlideShare"
 msgstr "SlideShare"
 
-#: ../inc/catchkathmandu-functions.php:1569
+#: ../inc/catchkathmandu-functions.php:1573
 msgid "FourSquare"
 msgstr "FourSquare"
 
-#: ../inc/catchkathmandu-functions.php:1574
+#: ../inc/catchkathmandu-functions.php:1578
 #: ../inc/panel/customizer/customizer.php:723
 msgid "Flickr"
 msgstr "Flickr"
 
-#: ../inc/catchkathmandu-functions.php:1579
+#: ../inc/catchkathmandu-functions.php:1583
 #: ../inc/panel/customizer/customizer.php:733
 msgid "Tumblr"
 msgstr "Tumblr"
 
-#: ../inc/catchkathmandu-functions.php:1584
+#: ../inc/catchkathmandu-functions.php:1588
 #: ../inc/panel/customizer/customizer.php:743
 msgid "deviantART"
 msgstr "deviantART"
 
-#: ../inc/catchkathmandu-functions.php:1589
+#: ../inc/catchkathmandu-functions.php:1593
 #: ../inc/panel/customizer/customizer.php:753
 msgid "Dribbble"
 msgstr "Dribbble"
 
-#: ../inc/catchkathmandu-functions.php:1594
+#: ../inc/catchkathmandu-functions.php:1598
 #: ../inc/panel/customizer/customizer.php:763
 msgid "MySpace"
 msgstr "MySpace"
 
-#: ../inc/catchkathmandu-functions.php:1599
+#: ../inc/catchkathmandu-functions.php:1603
 #: ../inc/panel/customizer/customizer.php:773
 msgid "WordPress"
 msgstr "WordPress"
 
-#: ../inc/catchkathmandu-functions.php:1604
+#: ../inc/catchkathmandu-functions.php:1608
 #: ../inc/panel/customizer/customizer.php:783
 msgid "RSS"
 msgstr "RSS"
 
-#: ../inc/catchkathmandu-functions.php:1609
+#: ../inc/catchkathmandu-functions.php:1613
 #: ../inc/panel/customizer/customizer.php:793
 msgid "Delicious"
 msgstr "Delicious"
 
-#: ../inc/catchkathmandu-functions.php:1614
+#: ../inc/catchkathmandu-functions.php:1618
 #: ../inc/panel/customizer/customizer.php:803
 msgid "Last.fm"
 msgstr "Last.fm"
 
-#: ../inc/catchkathmandu-functions.php:1619
+#: ../inc/catchkathmandu-functions.php:1623
 #: ../inc/panel/customizer/customizer.php:813
 msgid "Instagram"
 msgstr "Instagram"
 
-#: ../inc/catchkathmandu-functions.php:1624
+#: ../inc/catchkathmandu-functions.php:1628
 #: ../inc/panel/customizer/customizer.php:823
 msgid "GitHub"
 msgstr "GitHub"
 
-#: ../inc/catchkathmandu-functions.php:1629
+#: ../inc/catchkathmandu-functions.php:1633
 #: ../inc/panel/customizer/customizer.php:833
 msgid "Vkontakte"
 msgstr "Vkontakte"
 
-#: ../inc/catchkathmandu-functions.php:1634
+#: ../inc/catchkathmandu-functions.php:1638
 #: ../inc/panel/customizer/customizer.php:843
 msgid "My World"
 msgstr "My World"
 
-#: ../inc/catchkathmandu-functions.php:1639
+#: ../inc/catchkathmandu-functions.php:1643
 #: ../inc/panel/customizer/customizer.php:853
 msgid "Odnoklassniki"
 msgstr "Odnoklassniki"
 
-#: ../inc/catchkathmandu-functions.php:1644
+#: ../inc/catchkathmandu-functions.php:1648
 msgid "GoodReads"
 msgstr "GoodReads"
 
-#: ../inc/catchkathmandu-functions.php:1649
+#: ../inc/catchkathmandu-functions.php:1653
 #: ../inc/panel/customizer/customizer.php:873
 msgid "Skype"
 msgstr "Skype"
 
-#: ../inc/catchkathmandu-functions.php:1654
+#: ../inc/catchkathmandu-functions.php:1658
 msgid "SoundCloud"
 msgstr "SoundCloud"
 
-#: ../inc/catchkathmandu-functions.php:1659
+#: ../inc/catchkathmandu-functions.php:1663
 #: ../inc/panel/customizer/customizer.php:893
 msgid "Email"
 msgstr "Correu-e"
 
-#: ../inc/catchkathmandu-functions.php:1664
+#: ../inc/catchkathmandu-functions.php:1668
 #: ../inc/panel/customizer/customizer.php:903
 msgid "Contact"
 msgstr "Contacte"
 
-#: ../inc/catchkathmandu-functions.php:1669
+#: ../inc/catchkathmandu-functions.php:1673
 #: ../inc/panel/customizer/customizer.php:913
 msgid "Xing"
 msgstr "Xing"
 
-#: ../inc/catchkathmandu-functions.php:1674
+#: ../inc/catchkathmandu-functions.php:1678
 #: ../inc/panel/customizer/customizer.php:923
 msgid "Meetup"
 msgstr "Meetup"
 
-#: ../inc/catchkathmandu-functions.php:1767
+#: ../inc/catchkathmandu-functions.php:1683
+#: ../inc/panel/customizer/customizer.php:933
+#, fuzzy
+#| msgid "Twitter"
+msgid "X Twitter"
+msgstr "Twitter"
+
+#: ../inc/catchkathmandu-functions.php:1688
+#: ../inc/panel/customizer/customizer.php:943
+msgid "Bluesky"
+msgstr ""
+
+#: ../inc/catchkathmandu-functions.php:1693
+#: ../inc/panel/customizer/customizer.php:953
+msgid "Tiktok"
+msgstr ""
+
+#: ../inc/catchkathmandu-functions.php:1698
+#: ../inc/panel/customizer/customizer.php:963
+#, fuzzy
+#| msgid "Goodreads"
+msgid "Threads"
+msgstr "Goodreads"
+
+#: ../inc/catchkathmandu-functions.php:1791
 msgid "ID"
 msgstr "ID"
 
@@ -431,175 +455,175 @@ msgstr "Logotip per defecte"
 msgid "Catch Kathmandu Logo"
 msgstr "Catch Kathmandu Logo"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:103
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:107
 msgid "Copyright"
 msgstr "Copyright"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:103
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:107
 msgid "All Rights Reserved"
 msgstr "Tots els drets reservats"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:103
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:107
 msgid "Catch Kathmandu by"
 msgstr "Catch Kathmandu by"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:122
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:126
 msgid "Y"
 msgstr "Y"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:143
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:147
 msgid "https://catchthemes.com"
 msgstr "https://catchthemes.com"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:143
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:147
 msgid "Catch Themes"
 msgstr "Catch Themes"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:154
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:158
 msgid "Light (Blue)"
 msgstr "Clar"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:155
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:159
 msgid "Dark"
 msgstr "Fosc"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:156
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:160
 msgid "Light (Black)"
 msgstr "Light (Black)"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:170
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:174
 msgid "3 Columns"
 msgstr "3 columnes"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:171
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:175
 msgid "4 Columns"
 msgstr "4 columnes"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:185
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:284
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:189
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:288
 msgid "Homepage"
 msgstr "Pàgina d'inici"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:186
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:190
 msgid "Excluding Homepage"
 msgstr "Excloent la pàgina d'inici"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:187
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:285
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:191
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:289
 msgid "Entire Site"
 msgstr "El lloc sencer"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:188
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:192
 msgid "Entire Site, Page/Post Featured Image"
 msgstr "Per a tot el lloc, imatge destacada de Pàgina/Entrada"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:189
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:193
 msgid "Pages & Posts"
 msgstr "Pàgines i entrades"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:190
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:286
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:194
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:290
 msgid "Disable"
 msgstr "Desactiva"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:204
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:220
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:208
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:224
 msgid "Full Image"
 msgstr "Imatge sencera"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:205
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:221
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:209
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:225
 msgid "Slider Image"
 msgstr "Imatge d'slider"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:206
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:222
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:210
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:226
 msgid "Featured Image"
 msgstr "Imatge destacada"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:223
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:227
 msgid "Disable Image"
 msgstr "Desactiva la imatge"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:237
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:241
 msgid "Right Sidebar"
 msgstr "Barra lateral dreta"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:238
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:242
 msgid "Left Sidebar"
 msgstr "Barra lateral esquerra"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:239
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:243
 msgid "No Sidebar"
 msgstr "Sense barres laterals"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:253
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:257
 #: ../inc/panel/customizer/customizer.php:408
 msgid "Full Content Display"
 msgstr "Mostrar tot el contingut"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:254
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:258
 msgid "Excerpt/Blog Display"
 msgstr "Mostrar resum/blog"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:268
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:272
 msgid "Demo"
 msgstr ""
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:269
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:273
 #, fuzzy
 #| msgid "Post ID"
 msgid "Post"
 msgstr "ID de l'entrada"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:270
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:274
 #, fuzzy
 #| msgid "Category Slider"
 msgid "Category"
 msgstr "Slider de categories"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:300
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:304
 msgid "fade"
 msgstr "fade"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:301
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:305
 msgid "wipe"
 msgstr "wipe"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:302
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:304
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:306
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:308
 msgid "scrollUp"
 msgstr "scrollUp"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:303
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:307
 msgid "scrollDown"
 msgstr "scrollDown"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:305
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:309
 msgid "scrollLeft"
 msgstr "scrollLeft"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:306
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:310
 msgid "scrollRight"
 msgstr "scrollRight"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:307
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:311
 msgid "blindX"
 msgstr "blindX"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:308
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:312
 msgid "blindY"
 msgstr "blindY"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:309
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:313
 msgid "blindZ"
 msgstr "blindZ"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:310
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:314
 msgid "cover"
 msgstr "cover"
 
-#: ../inc/panel/catchkathmandu-theme-options-defaults.php:311
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:315
 msgid "shuffle"
 msgstr "shuffle"
 
@@ -737,7 +761,7 @@ msgid "Homepage Headline Text"
 msgstr "Text del titular de la pàgina d'inici"
 
 #: ../inc/panel/customizer/customizer.php:199
-#: ../inc/panel/customizer/customizer.php:1372
+#: ../inc/panel/customizer/customizer.php:1412
 msgid "Appropriate Words: 10"
 msgstr ""
 
@@ -838,8 +862,8 @@ msgstr ""
 #: ../inc/panel/customizer/customizer.php:420
 #: ../inc/panel/customizer/customizer.php:471
 #: ../inc/panel/customizer/customizer.php:608
-#: ../inc/panel/customizer/customizer.php:1024
-#: ../inc/panel/customizer/customizer.php:1094
+#: ../inc/panel/customizer/customizer.php:1064
+#: ../inc/panel/customizer/customizer.php:1134
 msgid "Please refresh the customizer after saving if reset option is used"
 msgstr ""
 
@@ -941,110 +965,110 @@ msgstr "Goodreads"
 msgid "Soundcloud"
 msgstr "Soundcloud"
 
-#: ../inc/panel/customizer/customizer.php:934
+#: ../inc/panel/customizer/customizer.php:974
 msgid "Header Code"
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:935
+#: ../inc/panel/customizer/customizer.php:975
 msgid ""
 "Here you can put scripts from Google, Facebook, Twitter, Add This etc. which "
 "will load on Header"
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:945
+#: ../inc/panel/customizer/customizer.php:985
 msgid "Footer Code"
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:946
+#: ../inc/panel/customizer/customizer.php:986
 msgid ""
 "Here you can put scripts from Google, Facebook, Twitter, Add This etc. which "
 "will load on footer"
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:961
-#: ../inc/panel/customizer/customizer.php:1040
+#: ../inc/panel/customizer/customizer.php:1001
+#: ../inc/panel/customizer/customizer.php:1080
 msgid "Enable Featured Header Image"
 msgstr "Habilita la imatge destacada de capçalera"
 
-#: ../inc/panel/customizer/customizer.php:972
-#: ../inc/panel/customizer/customizer.php:1052
+#: ../inc/panel/customizer/customizer.php:1012
+#: ../inc/panel/customizer/customizer.php:1092
 msgid "Page/Post Featured Image Size"
 msgstr "Mida de la imatge destacada de Pàgina/Entrada"
 
-#: ../inc/panel/customizer/customizer.php:983
+#: ../inc/panel/customizer/customizer.php:1023
 msgid "Featured Header Image"
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:993
-#: ../inc/panel/customizer/customizer.php:1063
+#: ../inc/panel/customizer/customizer.php:1033
+#: ../inc/panel/customizer/customizer.php:1103
 msgid "Featured Header Image Alt/Title Tag"
 msgstr "Text per a les etiquetes Alt/Title de la imatge destacada de capçalera"
 
-#: ../inc/panel/customizer/customizer.php:1003
-#: ../inc/panel/customizer/customizer.php:1073
+#: ../inc/panel/customizer/customizer.php:1043
+#: ../inc/panel/customizer/customizer.php:1113
 msgid "Featured Header Image Link URL"
 msgstr "URL per a la imatge destacada de capçalera"
 
-#: ../inc/panel/customizer/customizer.php:1013
-#: ../inc/panel/customizer/customizer.php:1083
+#: ../inc/panel/customizer/customizer.php:1053
+#: ../inc/panel/customizer/customizer.php:1123
 msgid "Check to Open Link in New Tab/Window"
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:1023
-#: ../inc/panel/customizer/customizer.php:1093
+#: ../inc/panel/customizer/customizer.php:1063
+#: ../inc/panel/customizer/customizer.php:1133
 msgid "Check to Reset Header Featured Image Options"
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:1267
+#: ../inc/panel/customizer/customizer.php:1307
 #, php-format
 msgid "Featured Content #%s"
 msgstr "Contingut destacat %s"
 
-#: ../inc/panel/customizer/customizer.php:1288
+#: ../inc/panel/customizer/customizer.php:1328
 msgid "Image"
 msgstr "Imatge"
 
-#: ../inc/panel/customizer/customizer.php:1308
+#: ../inc/panel/customizer/customizer.php:1348
 msgid "Link URL"
 msgstr "URL"
 
-#: ../inc/panel/customizer/customizer.php:1328
+#: ../inc/panel/customizer/customizer.php:1368
 msgid "Target. Open Link in New Window?"
 msgstr "Obrir l'enllaç en una finestra nova?"
 
-#: ../inc/panel/customizer/customizer.php:1348
+#: ../inc/panel/customizer/customizer.php:1388
 msgid "Title"
 msgstr "Títol"
 
-#: ../inc/panel/customizer/customizer.php:1351
+#: ../inc/panel/customizer/customizer.php:1391
 msgid "Leave empty if you want to remove title"
 msgstr "Deixa-ho buit si vols eliminar el títol"
 
-#: ../inc/panel/customizer/customizer.php:1369
+#: ../inc/panel/customizer/customizer.php:1409
 msgid "Content"
 msgstr "Contingut"
 
-#: ../inc/panel/customizer/customizer.php:1393
+#: ../inc/panel/customizer/customizer.php:1433
 #, php-format
 msgid "Featured Post Slider #%s"
 msgstr "Slide d'entrada destacada %s"
 
-#: ../inc/panel/customizer/customizer.php:1408
+#: ../inc/panel/customizer/customizer.php:1448
 msgid ""
 "Caution: Reset all settings to default. Refresh the page after save to view "
 "full effects."
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:1410
+#: ../inc/panel/customizer/customizer.php:1450
 msgid "Reset all settings"
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:1421
+#: ../inc/panel/customizer/customizer.php:1461
 msgid "Check to reset all settings to default"
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:1431
-#: ../inc/panel/customizer/customizer.php:1442
+#: ../inc/panel/customizer/customizer.php:1471
+#: ../inc/panel/customizer/customizer.php:1482
 msgid "Important Links"
 msgstr ""
 

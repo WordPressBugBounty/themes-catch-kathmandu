@@ -928,6 +928,46 @@ function catchkathmandu_customize_register( $wp_customize ) {
 			'section' 		=> 'predefined_social_icons',
 			'default' 		=> $defaults['social_meetup']
 		),
+		'social_x' => array(
+			'id' 			=> 'social_x',
+			'title' 		=> __('X Twitter', 'catch-kathmandu'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> $defaults['social_x']
+		),
+		'social_bluesky' => array(
+			'id' 			=> 'social_bluesky',
+			'title' 		=> __('Bluesky', 'catch-kathmandu'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> $defaults['social_bluesky']
+		),
+		'social_tiktok' => array(
+			'id' 			=> 'social_tiktok',
+			'title' 		=> __('Tiktok', 'catch-kathmandu'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> $defaults['social_tiktok']
+		),
+		'social_threads' => array(
+			'id' 			=> 'social_threads',
+			'title' 		=> __('Threads', 'catch-kathmandu'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> $defaults['social_threads']
+		),
 
 		'analytic_header' => array(
 			'id' 			=> 'analytic_header',

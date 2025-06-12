@@ -4,9 +4,9 @@ Theme URI: https://catchthemes.com/themes/catch-kathmandu/
 Author: Catch Themes
 Author URI: https://catchthemes.com/
 Description: Catch Kathmandu Theme is a fully responsive WordPress theme that looks elegant on any devices. It is simple, clean and lightweight full-fledged WordPress theme based on HTML5 and CSS3. The design is highly customizable and you can tailor the display to your taste with a few easy clicks. If you are looking for a clean professional space, which accommodates your visuals and yet provides you with ample amount of textual area, Catch Kathmandu is your perfect find. This theme is widely been used by Photographers, Bloggers, Corporate Houses and Universities. Translation ready and currently translated in French, Russian, Spanish, Polish, Brazilian Portuguese, Italian, German(SWITZERLAND), Japanese, Dutch, German and Danish languages. Check out Theme Instructions at https://catchthemes.com/theme-instructions/catch-kathmandu/, Support at https://catchthemes.com/support/ and Demo at https://catchthemes.com/demo/catch-kathmandu/
-Version: 4.3.8
-Requires at least: 5.6
-Tested up to: 6.7
+Version: 4.4
+Requires at least: 5.9
+Tested up to: 6.8
 Requires PHP: 5.6
 License: GNU General Public License, version 3 (GPLv3)
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
@@ -2275,6 +2275,38 @@ ul.social-profile li.meetup a {
 
 ul.social-profile li.meetup a:hover {
 	background-position: -1205px -43px;
+}
+
+ul.social-profile li.x a {
+	background-position: -1248px 0;
+}
+
+ul.social-profile li.x a:hover {
+	background-position: -1248px -43px;
+}
+
+ul.social-profile li.bluesky a {
+	background-position: -1291px 0;
+}
+
+ul.social-profile li.bluesky a:hover {
+	background-position: -1291px -43px;
+}
+
+ul.social-profile li.tiktok a {
+	background-position: -1334px 0;
+}
+
+ul.social-profile li.tiktok a:hover {
+	background-position: -1334px -43px;
+}
+
+ul.social-profile li.threads a {
+	background-position: -1377px 0;
+}
+
+ul.social-profile li.threads a:hover {
+	background-position: -1377px -43px;
 }
 
 ul.social-profile li.custom-social a {

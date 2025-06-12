@@ -1500,7 +1500,11 @@ function catchkathmandu_social_networks() {
 						$options['social_soundcloud'],
 						$options[ 'social_email'],
 						$options['social_xing'],
-						$options['social_meetup']
+						$options['social_meetup'],
+						$options['social_x'],
+						$options['social_bluesky'],
+						$options['social_tiktok'],
+						$options['social_threads']
 					);
 	$flag = 0;
 	if ( !empty( $elements ) ) {
@@ -1672,6 +1676,26 @@ function catchkathmandu_social_networks() {
 			if ( !empty( $options['social_meetup'] ) ) {
 				$catchkathmandu_social_networks .=
 					'<li class="meetup"><a href="'.esc_url( $options['social_meetup'] ).'" title="'. esc_attr__( 'Meetup', 'catch-kathmandu' ) .'" target="_blank">'. esc_attr__( 'Meetup', 'catch-kathmandu' ) .'</a></li>';
+			}
+			//X Twitter
+			if (!empty($options['social_x'])) {
+				$catchkathmandu_social_networks .=
+					'<li class="x"><a href="' . esc_url($options['social_x']) . '" title="' . esc_attr__('X Twitter', 'catch-kathmandu') . '" target="_blank">' . esc_attr__('X Twitter', 'catch-kathmandu') . '</a></li>';
+			}
+			//Bluesky
+			if (!empty($options['social_bluesky'])) {
+				$catchkathmandu_social_networks .=
+					'<li class="bluesky"><a href="' . esc_url($options['social_bluesky']) . '" title="' . esc_attr__('Bluesky', 'catch-kathmandu') . '" target="_blank">' . esc_attr__('Bluesky', 'catch-kathmandu') . '</a></li>';
+			}
+			//Tiktok
+			if (!empty($options['social_tiktok'])) {
+				$catchkathmandu_social_networks .=
+					'<li class="tiktok"><a href="' . esc_url($options['social_tiktok']) . '" title="' . esc_attr__('Tiktok', 'catch-kathmandu') . '" target="_blank">' . esc_attr__('Tiktok', 'catch-kathmandu') . '</a></li>';
+			}
+			//Threads
+			if (!empty($options['social_threads'])) {
+				$catchkathmandu_social_networks .=
+					'<li class="threads"><a href="' . esc_url($options['social_threads']) . '" title="' . esc_attr__('Threads', 'catch-kathmandu') . '" target="_blank">' . esc_attr__('Threads', 'catch-kathmandu') . '</a></li>';
 			}
 
 			$catchkathmandu_social_networks .='

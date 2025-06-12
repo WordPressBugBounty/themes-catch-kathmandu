@@ -1,8 +1,8 @@
 === Catch Kathmandu ===
 Contributors: catchthemes
 Tags: black, blue, gray, white, dark,light, one-column, two-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, responsive-layout,  custom-background, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, front-page-post-form, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
-Requires at least: 5.6
-Tested up to: 6.7
+Requires at least: 5.9
+Tested up to: 6.8
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -72,6 +72,11 @@ Access to free support forum at https://catchthemes.com/support-forum/forum/catc
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 4.4 (Released: June 12, 2025) =
+* Added: Twitter X, Threads, Tiktok, and Bluesky icons
+* Updated: About admin CSS for changelog display
+* Updated: WordPress 6.8 ready
 
 = 4.3.8 (Released: March 09, 2025) =
 * Updated: Responsive font sizes
@@ -404,7 +409,7 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Copyright ==
 
-Catch Kathmandu WordPress Theme, Copyright 2012-2023 Catchthemes.com
+Catch Kathmandu WordPress Theme, Copyright 2012-2025 Catchthemes.com
 Catch Kathmandu is distributed under the terms of the GNU GPL
 
 == Resources ==
