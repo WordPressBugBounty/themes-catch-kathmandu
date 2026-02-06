@@ -2,7 +2,7 @@
 Contributors: catchthemes
 Tags: black, blue, gray, white, dark,light, one-column, two-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, responsive-layout,  custom-background, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, front-page-post-form, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
 Requires at least: 5.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -72,6 +72,10 @@ Access to free support forum at https://catchthemes.com/support-forum/forum/catc
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 4.4.1 (Released: December 12, 2025) =
+* Bug Fixed: Deprecated Function WP_Dependencies-add_data() warning after WordPress update 6.9
+* Updated: WordPress 6.9 ready
 
 = 4.4 (Released: June 12, 2025) =
 * Added: Twitter X, Threads, Tiktok, and Bluesky icons

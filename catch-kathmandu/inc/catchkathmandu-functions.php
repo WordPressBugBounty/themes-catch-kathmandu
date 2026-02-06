@@ -104,20 +104,6 @@ function catchkathmandu_scripts() {
 		wp_enqueue_script( 'catchkathmandu-scrollup', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/catchkathmandu-scrollup.min.js', array( 'jquery' ), '20072014', true  );
 	}
 
-	/**
-	 * Browser Specific Enqueue Script
-	 */
-	// Load the html5 shiv.
-	wp_enqueue_script( 'catchkathmandu-html5', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/html5.min.js', array(), '3.7.3' );
-	wp_script_add_data( 'catchkathmandu-html5', 'conditional', 'lt IE 9' );
-
-	// Load Selectivizr
-	wp_enqueue_script( 'jquery-selectivizr', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/selectivizr.min.js', array( 'jquery' ), '20130114', false );
-	wp_script_add_data( 'jquery-selectivizr', 'conditional', 'lt IE 9' );
-
-	// Load IE CSS
-	wp_enqueue_style( 'catchkathmandu-iecss', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'css/ie.css' );
-	wp_style_add_data( 'catchkathmandu-iecss', 'conditional', 'lt IE 9' );
 }
 add_action( 'wp_enqueue_scripts', 'catchkathmandu_scripts' );
 
