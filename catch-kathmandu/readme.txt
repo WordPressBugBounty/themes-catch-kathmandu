@@ -73,6 +73,9 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
 
+= 4.4.2 (Released: March 02, 2026) =
+* Removed: Gradient color in button as it's conflicting with editor color settings
+
 = 4.4.1 (Released: December 12, 2025) =
 * Bug Fixed: Deprecated Function WP_Dependencies-add_data() warning after WordPress update 6.9
 * Updated: WordPress 6.9 ready
@@ -413,7 +416,7 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Copyright ==
 
-Catch Kathmandu WordPress Theme, Copyright 2012-2025 Catchthemes.com
+Catch Kathmandu WordPress Theme, Copyright 2012-2026 Catchthemes.com
 Catch Kathmandu is distributed under the terms of the GNU GPL
 
 == Resources ==

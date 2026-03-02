@@ -390,7 +390,6 @@ p.has-drop-cap:not(:focus):first-letter {
 
 .wp-block-button__link {
 	display: inline-block;
-	background-repeat: repeat-x;
 	-moz-border-radius: 0px;
 	-webkit-border-radius: 0px;
 	border-radius: 0px;
@@ -398,12 +397,6 @@ p.has-drop-cap:not(:focus):first-letter {
 	font-size: 14px;
 	line-height: 1.5;
 	font-weight: normal;
-	background-repeat: repeat-x;
-	background-image: -moz-linear-gradient(top, #f4f4f4, #ddd);
-	background-image: -ms-linear-gradient(top, #f4f4f4, #ddd);
-	background-image: -webkit-linear-gradient(top, #f4f4f4, #ddd);
-	background-image: -o-linear-gradient(top, #f4f4f4, #ddd);
-	background-image: linear-gradient(top, #f4f4f4, #ddd);
 	border: 1px solid #d2d2d2;
 	box-shadow: 0 1px 2px rgba(64, 64, 64, 0.1);
 }
